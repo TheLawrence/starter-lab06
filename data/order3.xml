@@ -36,5 +36,6 @@ and open the template in the editor.
         <sauce type="ketchup"/>
         <sauce type="mayo"/>
         <sauce type="mustard"/>
+        <instructions>Add peanut butter as well too.</instructions>
     </burger>
 </order>
